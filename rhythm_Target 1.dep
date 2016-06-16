@@ -1,0 +1,28 @@
+Dependencies for Project 'rhythm', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_md_vl.s)(0x532BE50A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_md_vl.lst --xref -o .\startup_stm32f10x_md_vl.o --depend .\startup_stm32f10x_md_vl.d)
+F (.\system_stm32f10x.c)(0x50874B9C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (E:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x574ED370)
+I (E:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532BE9B2)
+I (E:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BE9B2)
+I (E:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BE9B2)
+I (E:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x532BE54A)
+F (.\rhythm.h)(0x57563A20)()
+F (.\rhythm.c)(0x5756807A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x-o .\rhythm.o --omf_browse .\rhythm.crf --depend .\rhythm.d)
+I (rhythm.h)(0x57563A20)
+I (E:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x574ED370)
+I (E:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532BE9B2)
+I (E:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BE9B2)
+I (E:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BE9B2)
+I (E:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x532BE54A)
+I (E:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+F (.\display.c)(0x57563B07)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x-o .\display.o --omf_browse .\display.crf --depend .\display.d)
+I (rhythm.h)(0x57563A20)
+I (E:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x574ED370)
+I (E:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532BE9B2)
+I (E:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BE9B2)
+I (E:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BE9B2)
+I (E:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x532BE54A)
+I (E:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)

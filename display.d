@@ -1,0 +1,9 @@
+.\display.o: display.c
+.\display.o: rhythm.h
+.\display.o: E:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\display.o: E:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\display.o: E:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\display.o: E:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\display.o: E:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\display.o: E:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\display.o: E:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
